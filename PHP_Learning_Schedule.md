@@ -7,8 +7,8 @@
 |------|-----|------------|------------------------------|------------------------------|---------|-----------------|
 | Dec 1 | Sunday | Environment Setup | Install XAMPP/Docker, Configure VSCode | Set up Git, Test Environment | 🟢 Completed | [Upload Image] |
 | Dec 2 | Monday | Modern PHP Intro | Watch PHP 8 Crash Course | Hands-on Practice with Basic Syntax | 🟢 Completed | [Upload Image] |
-| Dec 3 | Tuesday | Composer | Package Management Tutorial | Create Project with Dependencies | ⬜ Pending | [Upload Image] |
-| Dec 4 | Wednesday | Type System | PHP 8 Type Declarations | Error Handling Implementation | ⬜ Pending | [Upload Image] |
+| Dec 3 | Tuesday | Composer | Package Management Tutorial | Create Project with Dependencies | 🟢 Completed | [Upload Image] |
+| Dec 4 | Wednesday | Type System | PHP 8 Type Declarations | Error Handling Implementation | 🟢 Completed | [Upload Image] |
 | Dec 5 | Thursday | PHP 8.x Features | New Features Tutorial | Practice Modern Syntax | ⬜ Pending | [Upload Image] |
 | Dec 6 | Friday | Error Management | Professional Logging Setup | Error Handling Scenarios | ⬜ Pending | [Upload Image] |
 | Dec 7 | Saturday | Weekend Project | API Data Parser Development | Testing and Documentation | ⬜ Pending | [Upload Image] |
