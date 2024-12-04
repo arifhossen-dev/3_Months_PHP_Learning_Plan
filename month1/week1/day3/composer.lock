@@ -1,0 +1,62 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "80daa18a6ea79d8a2ccd0171948a96be",
+    "packages": [
+        {
+            "name": "arifhossen/taka-format",
+            "version": "v1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/arifhossen-dev/taka-format.git",
+                "reference": "53379d7f0432c7c41fea8e7456139e9a57a1d3e7"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/arifhossen-dev/taka-format/zipball/53379d7f0432c7c41fea8e7456139e9a57a1d3e7",
+                "reference": "53379d7f0432c7c41fea8e7456139e9a57a1d3e7",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^8.0"
+            },
+            "require-dev": {
+                "pestphp/pest": "^2.34"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Arifhossen\\TakaFormat\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Arif hossen",
+                    "email": "arifhossen.dev@gmail.com"
+                }
+            ],
+            "description": "It will help php developer to convert any amount to Bangladeshi Currency format by Comma separated and in words",
+            "support": {
+                "issues": "https://github.com/arifhossen-dev/taka-format/issues",
+                "source": "https://github.com/arifhossen-dev/taka-format/tree/v1.0.0"
+            },
+            "time": "2024-03-04T05:47:09+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.6.0"
+}

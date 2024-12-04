@@ -1,0 +1,52 @@
+{
+    "packages": [
+        {
+            "name": "arifhossen/taka-format",
+            "version": "v1.0.0",
+            "version_normalized": "1.0.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/arifhossen-dev/taka-format.git",
+                "reference": "53379d7f0432c7c41fea8e7456139e9a57a1d3e7"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/arifhossen-dev/taka-format/zipball/53379d7f0432c7c41fea8e7456139e9a57a1d3e7",
+                "reference": "53379d7f0432c7c41fea8e7456139e9a57a1d3e7",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^8.0"
+            },
+            "require-dev": {
+                "pestphp/pest": "^2.34"
+            },
+            "time": "2024-03-04T05:47:09+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Arifhossen\\TakaFormat\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Arif hossen",
+                    "email": "arifhossen.dev@gmail.com"
+                }
+            ],
+            "description": "It will help php developer to convert any amount to Bangladeshi Currency format by Comma separated and in words",
+            "support": {
+                "issues": "https://github.com/arifhossen-dev/taka-format/issues",
+                "source": "https://github.com/arifhossen-dev/taka-format/tree/v1.0.0"
+            },
+            "install-path": "../arifhossen/taka-format"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}
