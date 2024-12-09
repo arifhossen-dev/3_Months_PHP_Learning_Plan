@@ -22,8 +22,8 @@ Status Legend:
 ### Week 2: Object-Oriented PHP Deep Dive (Dec 8 - Dec 14)
 | Date | Day | Focus Area | Morning Session (9:00-10:30) | Evening Session (10:30-12:00) | Status | Progress Report |
 |------|-----|------------|------------------------------|------------------------------|---------|-----------------|
-| Dec 8 | Sunday | OOP Basics | Classes and Objects Tutorial | Practice Creating Classes | ⬜ Pending | [Upload Image] |
-| Dec 9 | Monday | Inheritance | Class Inheritance Concepts | Implement Inheritance Examples | ⬜ Pending | [Upload Image] |
+| Dec 8 | Sunday | OOP Basics | Classes and Objects Tutorial | Practice Creating Classes | 🟢 Completed | [Upload Image] |
+| Dec 9 | Monday | Inheritance | Class Inheritance Concepts | Implement Inheritance Examples | 🟢 Completed | [Upload Image] |
 | Dec 10 | Tuesday | Interfaces | Interface Implementation | Abstract Classes Practice | ⬜ Pending | [Upload Image] |
 | Dec 11 | Wednesday | Traits | Traits and Mixins Tutorial | Implement Multiple Traits | ⬜ Pending | [Upload Image] |
 | Dec 12 | Thursday | DI & IoC | Dependency Injection Patterns | Container Implementation | ⬜ Pending | [Upload Image] |
