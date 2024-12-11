@@ -24,7 +24,7 @@ Status Legend:
 |------|-----|------------|------------------------------|------------------------------|---------|-----------------|
 | Dec 8 | Sunday | OOP Basics | Classes and Objects Tutorial | Practice Creating Classes | 🟢 Completed | [Upload Image] |
 | Dec 9 | Monday | Inheritance | Class Inheritance Concepts | Implement Inheritance Examples | 🟢 Completed | [Upload Image] |
-| Dec 10 | Tuesday | Interfaces | Interface Implementation | Abstract Classes Practice | ⬜ Pending | [Upload Image] |
+| Dec 10 | Tuesday | Interfaces | Interface Implementation | Abstract Classes Practice | 🟢 Completed | [Upload Image] |
 | Dec 11 | Wednesday | Traits | Traits and Mixins Tutorial | Implement Multiple Traits | ⬜ Pending | [Upload Image] |
 | Dec 12 | Thursday | DI & IoC | Dependency Injection Patterns | Container Implementation | ⬜ Pending | [Upload Image] |
 | Dec 13 | Friday | Magic Methods | Magic Methods Deep Dive | Method Implementation Practice | ⬜ Pending | [Upload Image] |
