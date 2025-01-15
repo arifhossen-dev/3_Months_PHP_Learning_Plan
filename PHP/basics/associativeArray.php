@@ -19,18 +19,32 @@
             'name' => 'Project Hail Mary',
             'author' => 'Andy Weir',
             'purchaseUrl' => 'http://example.com'
+        ],
+        [
+            'name' => 'Life Change',
+            'author' => 'Andy Weir',
+            'purchaseUrl' => 'http://example.com'
         ]
     ];
+    function filterByAuthor($books, $author){
+        $filteredBooks = [];
+        foreach ($books as $book){
+            if($book['author'] === $author){
+                $filteredBooks[] = $book;
+            }
+        }
+        return $filteredBooks;
+    }
     ?>
-
+    <h1>Book list of Andy Weir</h1>
     <ul>
-        <?php foreach ($books as $book): ?>
+        <?php foreach(filterByAuthor($books, 'Andy Weir') as $book ) : ?>
             <li>
                 <a href="<?= $book['purchaseUrl'] ?>">
-                    <?= $book['author'] . " => " . $book['name'] ?>
+                    <?= $book['name'] ?>
                 </a>
             </li>
-        <?php endforeach; ?>
+        <?php endforeach ?>
     </ul>
 
     <h1>All list</h1>
@@ -41,6 +55,7 @@
             <?php endforeach; ?>
         <?php endforeach; ?>
     </ul>
+
 </body>
 
 </html>
